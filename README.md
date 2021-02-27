@@ -1,5 +1,3 @@
 Página web
 
-Esta es mi primer página WEB
-
-Por Jesús Alberto Calderón Ruiz
+Jesús Alberto Calderón Ruiz
